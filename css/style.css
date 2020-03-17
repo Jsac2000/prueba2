@@ -1,0 +1,65 @@
+body{
+	font-family: Segoe UI, "Helvetica Neue";
+	font-size: 14px;
+	color: #666;
+}
+header{
+	background-color: rgba(29,14,0,0.7) !important;
+}
+#specialty{
+	background-color: #432a1c;
+	padding: 50px;
+	border-top: solid #c38346 5px;
+	border-bottom: solid #c38346 5px;
+}
+#specialty h2{
+	text-transform: uppercase;
+	font-family: 'Roboto', sans-serif;
+	color: #fff;
+}
+#specialty b{
+	color: #c38346;
+}
+#specialty .texto{
+	margin-left: 0;
+	padding-right: 10px;
+}
+#specialty .iconos{
+	background-color: #fff;
+	border-radius: 100%;
+	text-align: center;
+	padding: 50px;
+	margin: 5px;
+}
+#specialty p{
+	color: #fff;
+}
+#visitors {
+	background-image: url("../img/happyvisitor-bg.jpg");
+	padding: 60px;
+	color: #fff;
+}
+#visitors h2{
+	text-align: center;
+	padding: 20px;
+}
+.profile{
+	border-radius: 100%
+}
+.comment{
+	border: solid #fff
+}
+#gallery h2{
+	text-align: center;
+}
+footer{
+	background-color: #432A1C;
+	padding: 25px 0;
+	border-top: 4px solid #432a1c;
+	color: #fff;
+	text-align: center;
+}
+footer img {
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
